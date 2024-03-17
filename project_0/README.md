@@ -2,10 +2,15 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Mart-Againin/my_school_24/blob/Mart-Againin/project_0/README.md#Описание-прокта)  
-[2. Какой кейс решаем](https://github.com/Mart-Againin/my_school_24/blob/Mart-Againin/project_0/README.md#Какой-кейс-решаем)  
+
+[2. Какой кейс решаем](https://github.com/Mart-Againin/my_school_24/blob/Mart-Againin/project_0/README.md#Какой-кейс-решаем) 
+
 [3. Краткая информация о данных](https://github.com/Mart-Againin/my_school_24/blob/Mart-Againin/project_0/README.md#Краткая-информация-о-данных)  
+
 [4. Этапы работы над проектом](https://github.com/Mart-Againin/my_school_24/blob/Mart-Againin/project_0/README.md#Этапы-работы-над-проектом)
+
 [5. Результат](https://github.com/Mart-Againin/my_school_24/blob/Mart-Againin/project_0/README.md#Результат)
+
 [6. Выводы](https://github.com/Mart-Againin/my_school_24/blob/Mart-Againin/project_0/README.md#Выводы)
 
 ### Описание проекта
@@ -30,7 +35,7 @@
 
 Учимся писать хороший код на Python.
 
-:arrow_up:  
+:arrow_up: 
 [к оглавлению](https://github.com/Mart-Againin/my_school_24/blob/Mart-Againin/project_0/README.md#Оглавление)  
 
 ### Краткая информация о данных
